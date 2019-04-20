@@ -10,7 +10,7 @@ the dog’s owner’s name
 notes about the dog
 ```
 
-The methods and endpoints should be:
+The methods and endpoints are:
 ```
 GET /dogs - List all dogs
 POST /dogs - Add a new dog 😄

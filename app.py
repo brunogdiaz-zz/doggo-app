@@ -8,6 +8,7 @@ GET /dogs/:id - Get details for one dog
 PUT /dogs/:id - Update details for one dog
 DELETE /dogs/:id - Remove a dog ☹️
 '''
+
 @app.route('/dogs', methods=['GET', 'POST'])
 def dogs():
     return "Hello World!"
@@ -16,5 +17,3 @@ def dogs():
 def dogs_id(id):
     return str(id)
 
-if __name__ == '__main__':
-    app.run()

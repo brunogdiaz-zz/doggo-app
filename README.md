@@ -7,7 +7,7 @@ Dog’s schema contains
 unique ID
 the dog’s name
 the dog’s owner’s name
-notes about the dog. 
+notes about the dog
 ```
 
 The methods and endpoints should be:

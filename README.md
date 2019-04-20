@@ -18,3 +18,10 @@ GET /dogs/:id - Get details for one dog
 PUT /dogs/:id - Update details for one dog
 DELETE /dogs/:id - Remove a dog ☹️
 ```
+
+## How to Run
+
+```python
+pip install -r requirements.txt
+flask run
+```

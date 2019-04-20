@@ -22,6 +22,8 @@ DELETE /dogs/:id - Remove a dog ☹️
 ## How to Run
 
 ```python
+git clone https://github.com/brunogdiaz/doggo-app.git
+cd doggo-app
 pip install -r requirements.txt
 flask run
 ```
